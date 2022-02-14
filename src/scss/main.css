@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.grid {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  height: 600px;
+  width: 800px;
+}
+
+.grid img {
+  max-height: 140px;
+  max-width: 130px;
+}
+/*# sourceMappingURL=main.css.map */
